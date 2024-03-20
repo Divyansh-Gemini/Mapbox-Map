@@ -7,13 +7,14 @@
 * User can add markers at desired locations on the map.
 
 ## Screenshots
-<p>
-  <img height="500" src="https://github.com/Divyansh-Gemini/Mapbox-Map/assets/88696617/46baf2b1-575c-4b7d-a2cd-59d6bed7576a"/>
-  <img height="500" src="https://github.com/Divyansh-Gemini/Mapbox-Map/assets/88696617/6fc2ffa4-e453-4528-9322-bb070bd17a4f"/>
-  <img height="500" src="https://github.com/Divyansh-Gemini/Mapbox-Map/assets/88696617/e8fc0a93-8b95-47b9-abcd-c75fac4862df"/>
-  <img height="500" src="https://github.com/Divyansh-Gemini/Mapbox-Map/assets/88696617/9d333378-72bc-4e05-bd80-c0c68603d920"/>
-  <img height="500" src="https://github.com/Divyansh-Gemini/Mapbox-Map/assets/88696617//2c677abd-53dd-4522-a112-2a04793f686a"/>
+<p align="center">
+  <img height="300" src="https://github.com/Divyansh-Gemini/Mapbox-Map/assets/88696617/b297a2b8-583c-4e6a-94c2-f3e01a137341"/>
+  <img height="300" src="https://github.com/Divyansh-Gemini/Mapbox-Map/assets/88696617/8db35a36-f46f-4ae0-8278-3d95feda603f"/>
+  <img height="300" src="https://github.com/Divyansh-Gemini/Mapbox-Map/assets/88696617/7a5f1074-3d90-47aa-b7db-da857ba9ffe8"/>
+  <img height="300" src="https://github.com/Divyansh-Gemini/Mapbox-Map/assets/88696617/9ff06dfb-0cf6-4363-95f3-ae292c61966d"/>
+  <img height="300" src="https://github.com/Divyansh-Gemini/Mapbox-Map/assets/88696617/1e7f74ac-bb0f-4ec5-91ff-803d8ef35bee"/>
 </p>
+
 
 ## Installation Steps
 1. Signup at [mapbox.com](https://account.mapbox.com/auth/signup/).
