@@ -12,6 +12,7 @@
   <img height="500" src="https://github.com/Divyansh-Gemini/Mapbox-Map/assets/88696617/6fc2ffa4-e453-4528-9322-bb070bd17a4f"/>
   <img height="500" src="https://github.com/Divyansh-Gemini/Mapbox-Map/assets/88696617/e8fc0a93-8b95-47b9-abcd-c75fac4862df"/>
   <img height="500" src="https://github.com/Divyansh-Gemini/Mapbox-Map/assets/88696617/9d333378-72bc-4e05-bd80-c0c68603d920"/>
+  <img height="500" src="https://github.com/Divyansh-Gemini/Mapbox-Map/assets/88696617//2c677abd-53dd-4522-a112-2a04793f686a"/>
 </p>
 
 ## Installation Steps
