@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Mapbox</string>
+    <string name="current_location">Current Location</string>
+    <string name="map_type">Map Type</string>
+    <string name="select_map_type">Select map type</string>
+    <string name="street">Street</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="satellite">Satellite</string>
 </resources>
